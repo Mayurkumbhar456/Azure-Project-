@@ -1,0 +1,9 @@
+{
+	"name": "adf-azureprojectmk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb59863b-49e5-4347-a507-5891ec3c18d1",
+		"tenantId": "dc591e9b-0edb-4d4c-a983-c83bdbbd57cb"
+	}
+}
